@@ -1,6 +1,7 @@
 我的Vundle克隆
 
-新采用的是　https://github.com/fisadev/fisa-vim-config　这个配置
+新采用的是　https://github.com/fisadev/fisa-vim-config
+这个配置
 
 
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
