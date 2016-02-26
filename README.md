@@ -6,7 +6,7 @@
 test了不同语言，可以自动识别补全    
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
 
-## About
+## About  
 
 [Vundle] is short for _Vim bundle_ and is a [Vim] plugin manager.
 
