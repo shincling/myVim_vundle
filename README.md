@@ -3,7 +3,7 @@
 新采用的是　https://github.com/fisadev/fisa-vim-config
 这个配置
 
-test了不同语言，可以自动识别补全    
+test了不同语言，可以自动识别补全       
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
 
 ## About  
