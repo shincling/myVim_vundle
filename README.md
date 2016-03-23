@@ -3,7 +3,10 @@
 新采用的是　https://github.com/fisadev/fisa-vim-config
 这个配置
 
-test了不同语言，可以自动识别补全       
+test了不同语言，可以自动识别补全    
+
+会有一些问题是pycharm里的vim插件有些东西是不支持的，这个略有部爽　
+   
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
 
 ## About  
