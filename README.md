@@ -8,7 +8,7 @@ dd
 会有一些问题是pycharm里的vim插件有些东西是不支持的，这个略有不爽　
 
 just to connect the updating stream,Yes, Again. Again .Again
-Working on my paper in NLPCC2016 now.
+Working on my paper in NLPCC2016 now. 排版基本完成，在修改过程中。
    
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
 
