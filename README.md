@@ -17,7 +17,7 @@ Working on my paper in NLPCC2016 now. 排版基本完成，在修改过程中。
 
 [Vundle] is short for _Vim bundle_ and is a [Vim] plugin manager.
 
-[Vundle] allows you to...
+[Vundle] allows you to...  
 
 * keep track of and [configure] your plugins right in the `.vimrc`
 * [install] configured plugins (a.k.a. scripts/bundle)
