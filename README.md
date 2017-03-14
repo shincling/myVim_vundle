@@ -10,6 +10,7 @@ dd
 just to connect the updating stream,Yes, Again. Again .Again。Again .Again. Happy NewYear! 
 Jan ~ Prepare for Ph.D examination.
 Working on my paper in NLPCC2016 now. 排版基本完成，在修改过程中。
+log for the Thesis.
    
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
 
