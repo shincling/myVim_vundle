@@ -4,7 +4,7 @@
 这个配置
 
 test了不同语言，可以自动识别补全    
-dd
+dd dd
 会有一些问题是pycharm里的vim插件有些东西是不支持的，这个略有不爽　
 
 just to connect the updating stream,Yes, Again. Again .Again。Again .Again. Happy NewYear! 
