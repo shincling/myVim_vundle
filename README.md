@@ -12,6 +12,8 @@ Jan ~ Prepare for Ph.D examination.
 Working on my paper in NLPCC2016 now. 排版基本完成，在修改过程中。
 log for the Thesis. Thesis now.
 It's time to work the thesis and the 5.19 NIPS paper.  
+Finished initial version of the Thesis.
+
 ## [Help Maintain Vundle](https://github.com/VundleVim/Vundle.vim/issues/383)
 
 ## About  
